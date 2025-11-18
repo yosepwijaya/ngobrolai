@@ -1,0 +1,5 @@
+{
+  "name": "ngobrol-ai-frontend",
+  "version": "0.0.0",
+  "scripts": { "dev": "vite", "build": "tsc && vite build" }
+}
